@@ -5,7 +5,7 @@ This mobile application, built with React Native and Expo, serves as an interact
 # Key Features
 Search Functionality: Users can search for destinations by name, helping them find vacation spots that suit their preferences. The app filters destinations based on user input and updates the results dynamically.
 
-Destination Cards: Each destination is presented with a card displaying an image, name, country, and a brief description. Clicking on a card navigates the user to a detailed destination page (under development).
+Destination Cards: Each destination is presented with a card displaying an image, name, country, and a brief description. Clicking on a card navigates the user to a detailed destination page.
 
 Itinerary Management: Users can add destinations to their itinerary by typing them into a search bar. These entries are displayed in a list, helping users plan and organize their trips easily.
 
